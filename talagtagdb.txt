@@ -1,0 +1,182 @@
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,1
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>1274
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>1274
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,1
+LastSessions<|||>1<|||>talagtag
+LastActiveSession<|||>1<|||>talagtag
+ColWidths_frmTableEditor.listColumns<|||>1<|||>22,100,156,90,60,65,50,119,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>341,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>99,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+MemoEditorWidth<|||>3<|||>140
+MainWinMaximized<|||>3<|||>1
+Servers\Badeth\SessionCreated<|||>1<|||>2019-03-04 12:22:21
+Servers\Badeth\Host<|||>1<|||>127.0.0.1
+Servers\Badeth\WindowsAuth<|||>3<|||>0
+Servers\Badeth\User<|||>1<|||>root
+Servers\Badeth\Password<|||>1<|||>5
+Servers\Badeth\LoginPrompt<|||>3<|||>0
+Servers\Badeth\Port<|||>1<|||>3306
+Servers\Badeth\NetType<|||>3<|||>0
+Servers\Badeth\Compressed<|||>3<|||>0
+Servers\Badeth\LocalTimeZone<|||>3<|||>0
+Servers\Badeth\QueryTimeout<|||>3<|||>0
+Servers\Badeth\FullTableStatus<|||>3<|||>1
+Servers\Badeth\Databases<|||>1<|||>badeth's salon
+Servers\Badeth\Comment<|||>1<|||>
+Servers\Badeth\StartupScriptFilename<|||>1<|||>
+Servers\Badeth\SSHtunnelHost<|||>1<|||>
+Servers\Badeth\SSHtunnelHostPort<|||>3<|||>0
+Servers\Badeth\SSHtunnelUser<|||>1<|||>
+Servers\Badeth\SSHtunnelPassword<|||>1<|||>6
+Servers\Badeth\SSHtunnelTimeout<|||>3<|||>4
+Servers\Badeth\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Badeth\SSHtunnelPort<|||>3<|||>3307
+Servers\Badeth\SSL_Active<|||>3<|||>0
+Servers\Badeth\SSL_Key<|||>1<|||>
+Servers\Badeth\SSL_Cert<|||>1<|||>
+Servers\Badeth\SSL_CA<|||>1<|||>
+Servers\Badeth\SSL_Cipher<|||>1<|||>
+Servers\Badeth\ServerVersionFull<|||>1<|||>10.1.13-MariaDB - mariadb.org binary distribution
+Servers\Badeth\ConnectCount<|||>3<|||>4
+Servers\Badeth\ServerVersion<|||>3<|||>100113
+Servers\Badeth\LastConnect<|||>1<|||>2019-08-22 07:21:18
+Servers\Badeth\lastUsedDB<|||>1<|||>
+Servers\Badeth Salon\SessionCreated<|||>1<|||>2019-03-04 12:33:03
+Servers\Badeth Salon\Host<|||>1<|||>127.0.0.1
+Servers\Badeth Salon\WindowsAuth<|||>3<|||>0
+Servers\Badeth Salon\User<|||>1<|||>root
+Servers\Badeth Salon\Password<|||>1<|||>8
+Servers\Badeth Salon\LoginPrompt<|||>3<|||>0
+Servers\Badeth Salon\Port<|||>1<|||>3306
+Servers\Badeth Salon\NetType<|||>3<|||>0
+Servers\Badeth Salon\Compressed<|||>3<|||>0
+Servers\Badeth Salon\LocalTimeZone<|||>3<|||>0
+Servers\Badeth Salon\QueryTimeout<|||>3<|||>0
+Servers\Badeth Salon\FullTableStatus<|||>3<|||>1
+Servers\Badeth Salon\Databases<|||>1<|||>dianna
+Servers\Badeth Salon\Comment<|||>1<|||>
+Servers\Badeth Salon\StartupScriptFilename<|||>1<|||>
+Servers\Badeth Salon\SSHtunnelHost<|||>1<|||>
+Servers\Badeth Salon\SSHtunnelHostPort<|||>3<|||>0
+Servers\Badeth Salon\SSHtunnelUser<|||>1<|||>
+Servers\Badeth Salon\SSHtunnelPassword<|||>1<|||>2
+Servers\Badeth Salon\SSHtunnelTimeout<|||>3<|||>4
+Servers\Badeth Salon\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Badeth Salon\SSHtunnelPort<|||>3<|||>3307
+Servers\Badeth Salon\SSL_Active<|||>3<|||>0
+Servers\Badeth Salon\SSL_Key<|||>1<|||>
+Servers\Badeth Salon\SSL_Cert<|||>1<|||>
+Servers\Badeth Salon\SSL_CA<|||>1<|||>
+Servers\Badeth Salon\SSL_Cipher<|||>1<|||>
+Servers\Badeth Salon\ServerVersionFull<|||>1<|||>10.1.13-MariaDB - mariadb.org binary distribution
+Servers\Badeth Salon\ConnectCount<|||>3<|||>13
+Servers\Badeth Salon\ServerVersion<|||>3<|||>100113
+Servers\Badeth Salon\LastConnect<|||>1<|||>2019-08-22 07:21:44
+Servers\Badeth Salon\lastUsedDB<|||>1<|||>dianna
+Servers\Badeth Salon\RefusedCount<|||>3<|||>1
+Servers\Badeth Salon\dianna|bill\Sort<|||>1<|||>1_Bill_ID|
+Servers\talagtag\SessionCreated<|||>1<|||>2019-02-13 15:00:42
+Servers\talagtag\Host<|||>1<|||>127.0.0.1
+Servers\talagtag\WindowsAuth<|||>3<|||>0
+Servers\talagtag\User<|||>1<|||>root
+Servers\talagtag\Password<|||>1<|||>5
+Servers\talagtag\LoginPrompt<|||>3<|||>0
+Servers\talagtag\Port<|||>1<|||>3306
+Servers\talagtag\NetType<|||>3<|||>0
+Servers\talagtag\Compressed<|||>3<|||>0
+Servers\talagtag\LocalTimeZone<|||>3<|||>0
+Servers\talagtag\QueryTimeout<|||>3<|||>0
+Servers\talagtag\FullTableStatus<|||>3<|||>1
+Servers\talagtag\Databases<|||>1<|||>badeth's salon;Salon;Talagtagdb;talagtagdatabase
+Servers\talagtag\Comment<|||>1<|||>
+Servers\talagtag\StartupScriptFilename<|||>1<|||>
+Servers\talagtag\SSHtunnelHost<|||>1<|||>
+Servers\talagtag\SSHtunnelHostPort<|||>3<|||>0
+Servers\talagtag\SSHtunnelUser<|||>1<|||>
+Servers\talagtag\SSHtunnelPassword<|||>1<|||>9
+Servers\talagtag\SSHtunnelTimeout<|||>3<|||>4
+Servers\talagtag\SSHtunnelPrivateKey<|||>1<|||>
+Servers\talagtag\SSHtunnelPort<|||>3<|||>3307
+Servers\talagtag\SSL_Active<|||>3<|||>0
+Servers\talagtag\SSL_Key<|||>1<|||>
+Servers\talagtag\SSL_Cert<|||>1<|||>
+Servers\talagtag\SSL_CA<|||>1<|||>
+Servers\talagtag\SSL_Cipher<|||>1<|||>
+Servers\talagtag\ServerVersionFull<|||>1<|||>10.1.13-MariaDB - mariadb.org binary distribution
+Servers\talagtag\ConnectCount<|||>3<|||>15
+Servers\talagtag\ServerVersion<|||>3<|||>100113
+Servers\talagtag\LastConnect<|||>1<|||>2019-09-12 10:48:09
+Servers\talagtag\lastUsedDB<|||>1<|||>Talagtagdb
+Servers\talagtag\RefusedCount<|||>3<|||>5
+Servers\talagtag\QueryHistory\1<|||>1<|||>2019-09-07 11:13:41|Talagtagdb|93|INSERT INTO `Talagtagdb`.`registration` (`firstname`, `lastname`, `email`, `pass`) VALUES ('djjd', 'jdj', 'admin',MD5( 'admin'));
+Servers\trancedb\SessionCreated<|||>1<|||>2019-09-10 13:03:50
+Servers\trancedb\Host<|||>1<|||>127.0.0.1
+Servers\trancedb\WindowsAuth<|||>3<|||>0
+Servers\trancedb\User<|||>1<|||>root
+Servers\trancedb\Password<|||>1<|||>2
+Servers\trancedb\LoginPrompt<|||>3<|||>0
+Servers\trancedb\Port<|||>1<|||>3306
+Servers\trancedb\NetType<|||>3<|||>0
+Servers\trancedb\Compressed<|||>3<|||>0
+Servers\trancedb\LocalTimeZone<|||>3<|||>0
+Servers\trancedb\QueryTimeout<|||>3<|||>0
+Servers\trancedb\FullTableStatus<|||>3<|||>1
+Servers\trancedb\Databases<|||>1<|||>
+Servers\trancedb\Comment<|||>1<|||>
+Servers\trancedb\StartupScriptFilename<|||>1<|||>
+Servers\trancedb\SSHtunnelHost<|||>1<|||>
+Servers\trancedb\SSHtunnelHostPort<|||>3<|||>0
+Servers\trancedb\SSHtunnelUser<|||>1<|||>
+Servers\trancedb\SSHtunnelPassword<|||>1<|||>7
+Servers\trancedb\SSHtunnelTimeout<|||>3<|||>4
+Servers\trancedb\SSHtunnelPrivateKey<|||>1<|||>
+Servers\trancedb\SSHtunnelPort<|||>3<|||>3307
+Servers\trancedb\SSL_Active<|||>3<|||>0
+Servers\trancedb\SSL_Key<|||>1<|||>
+Servers\trancedb\SSL_Cert<|||>1<|||>
+Servers\trancedb\SSL_CA<|||>1<|||>
+Servers\trancedb\SSL_Cipher<|||>1<|||>
+Servers\trancedb\ServerVersionFull<|||>1<|||>10.1.13-MariaDB - mariadb.org binary distribution
+Servers\trancedb\ConnectCount<|||>3<|||>1
+Servers\trancedb\ServerVersion<|||>3<|||>100113
+Servers\trancedb\LastConnect<|||>1<|||>2019-09-10 13:04:02
