@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 12, 2019 at 06:03 AM
+-- Generation Time: Sep 12, 2019 at 09:35 AM
 -- Server version: 10.1.13-MariaDB
 -- PHP Version: 5.6.23
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `talagtagdb`
+-- Database: `dianadatabase`
 --
 
 -- --------------------------------------------------------
@@ -27,19 +27,21 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `registration` (
-  `firstname` varchar(50) NOT NULL,
-  `lastname` varchar(50) NOT NULL,
-  `email` varchar(50) NOT NULL,
-  `pass` varchar(50) DEFAULT NULL
+  `FIRSTNAME` text NOT NULL,
+  `LASTNAME` text NOT NULL,
+  `USERNAME` text NOT NULL,
+  `PASSWORD` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `registration`
 --
 
-INSERT INTO `registration` (`firstname`, `lastname`, `email`, `pass`) VALUES
-('djjd', 'jdj', 'yan', 'yan'),
-('djjd', 'jdj', 'admin', '21232f297a57a5a743894a0e4a801fc3');
+INSERT INTO `registration` (`FIRSTNAME`, `LASTNAME`, `USERNAME`, `PASSWORD`) VALUES
+('diana', 'talagtag', 'yan', '911f6332e7f90b94b87f15377263995c'),
+('', '', '', 'd41d8cd98f00b204e9800998ecf8427e'),
+('teddy', 'teddyboy', 'teddy', '7083cefce6c582987c9174a163971a0a'),
+('ted', 'teddyboy', 'tedlawrence', '3ae3ded165c1fa5b159c44c09aafd125');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
